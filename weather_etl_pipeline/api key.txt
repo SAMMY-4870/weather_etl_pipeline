@@ -1,0 +1,9 @@
+bff9cdee2747a19a6077c450cf394738           API key
+
+cd C:\Project\weather_etl_pipeline        Path of the project 
+
+streamlit run dashboard.py                online run module
+
+
+python fetch_weather.py                   live  server
+
